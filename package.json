@@ -20,7 +20,7 @@
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
     "react-router-dom": "^5.0.0",
-    "snyk": "^1.163.1"
+    "snyk": "^1.184.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
